@@ -1,6 +1,6 @@
 <!-- Professional Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500" alt="elegant-programmer-gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="real-coding">
 </p>
 
 
