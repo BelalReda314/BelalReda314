@@ -1,15 +1,6 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Communication+%26+Electronics+Engineer;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
 </p>
-
-
-
-<!-- Professional Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BelalReda314/BelalReda314/main/banner.png" alt="Belal Reda Banner" width="100%">
-</p>
-
 
 
 <p align="center">
