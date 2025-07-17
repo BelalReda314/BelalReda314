@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
 </p>
 
-<p align="center">
-  <img src="https://your-custom-banner.com/banner.png" alt="Belal Reda Banner" width="100%">
-</p>
 
 <!-- Professional Coding GIF -->
 <p align="center">
@@ -46,6 +43,13 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ![DevExpress](https://img.shields.io/badge/DevExpress-FFC107?style=flat)
 
 ---
+
+### 🔧 Languages & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium-yellow?style=flat&logo=altiumdesigner)
+
 
 ## 🚀 Projects
 
