@@ -1,5 +1,6 @@
-<h1 align="center"><b>Belal Reda</b></h1>
-<p align="center">Electronics & Communication Engineering Student | Future Developer</p>
+<h1 align="center">🚀 Belal Reda</h1>
+<p align="center"><em>Engineering Student | Passionate about Code, Circuits, and Creativity 💡</em></p>
+
 
 <!-- Professional Coding GIF -->
 <p align="center">
