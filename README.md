@@ -1,4 +1,5 @@
-<h2 align="center">👋 𝙷𝚒, 𝙸'𝚖  𝙱𝚎𝚕𝚊𝚕 𝚁𝚎𝚍𝚊</h2>
+<h2 align="center">👋 𝙷𝚒, 𝙸'𝚖 𝙱𝚎𝚕𝚊𝚕 𝚁𝚎𝚍𝚊</h2>
+
 
 <!-- Professional Coding GIF -->
 <p align="center">
