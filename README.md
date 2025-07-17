@@ -50,21 +50,21 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 A compact and reliable 5V regulated power supply circuit designed using **Altium Designer**, simulated with real-world conditions.  
 ![Altium](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F) ![Electronics](https://img.shields.io/badge/Type-Analog%20Circuit-blue)
 
---
+<hr/>
 
 🧠 **[Smart Curtain System](https://github.com/BelalReda314/Smart-Curtain-System)**  
-🪟 *LDR Sensors · TTL Logic Gates · Dual-layer PCB*  
+ *LDR Sensors · TTL Logic Gates · Dual-layer PCB*  
 A logic-gate-only curtain controller that automates window blinds based on ambient light — no microcontroller needed!  
 ![Digital Logic](https://img.shields.io/badge/BuiltWith-TTL%20Gates-7D3C98) ![PCB](https://img.shields.io/badge/PCB-Dual%20Layer-green)
 
---
+<hr/>
 
 ☀️ **[Solar Tracking System](https://github.com/BelalReda314/Solar-Tracking-System-Using-Arduino)**  
 🌞 *Dual Axis · Arduino Nano · Servo Motors + LDR Array*  
 An intelligent tracking system that adjusts solar panel orientation for maximum energy gain.  
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D) ![Sensors](https://img.shields.io/badge/Sensors-LDR-orange) ![Motion](https://img.shields.io/badge/Motion-Dual%20Axis-yellowgreen)
 
---
+<hr/>
 
 🔥 **[Fire Control System](https://github.com/BelalReda314/Fire-Control-System)**  
 🚨 *NTC Thermistor · LCD Warnings · Buzzer Alerts*  
