@@ -2,7 +2,7 @@
 
 <!-- Professional Coding GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFodjdwbG9kdm04dDgzZmd4MXZhYnh3dnVqbGxsZ2dvaW9wbDh5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="500" alt="real-coding">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd3cXRpNTcxM2ZxMGsyamMyNWE2c244MW9panF6amxnbGg0eTFqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSOXE2WOtK8SnHKpuL/giphy.gif" width="500" alt="real-coding">
 </p>
 
 
