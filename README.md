@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalReda&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 
 <!-- Professional Coding GIF -->
 <p align="center">
@@ -83,7 +81,7 @@ Smart fire alert system using **NTC thermistor**, **buzzer**, and **LCD screen**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BelalReda314&show_icons=true&theme=react" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelalReda314&layout=compact&theme=react" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalReda&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
