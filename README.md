@@ -25,7 +25,9 @@ I'm a passionate engineering student with a strong interest in **IC Design**, **
 I'm known for being proactive, detail-oriented, and always excited to learn through practical challenges.
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BelalReda&show_icons=true&theme=tokyonight" alt="Belal's GitHub stats"/>
+</p>
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
@@ -43,13 +45,6 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ![DevExpress](https://img.shields.io/badge/DevExpress-FFC107?style=flat)
 
 ---
-
-### 🔧 Languages & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/-Altium-yellow?style=flat&logo=altiumdesigner)
-
 
 ## 🚀 Projects
 
