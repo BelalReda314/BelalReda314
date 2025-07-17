@@ -45,38 +45,38 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ---
 ## 🚀 Highlight Projects
 
-🎯 **[Power Supply Circuit](https://github.com/BelalReda314/Power-Supply-Circuit)**  
+🎯 **[Power Supply Circuit](https://github.com/BelalReda314/Power-Supply-Circuit)** 
+![Altium](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F) ![Electronics](https://img.shields.io/badge/Type-Analog%20Circuit-blue)
 🔌 *7805 Voltage Regulator · Altium Designer · Simulation + PCB Layout*  
 A compact and reliable 5V regulated power supply circuit designed using **Altium Designer**, simulated with real-world conditions.  
-![Altium](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F) ![Electronics](https://img.shields.io/badge/Type-Analog%20Circuit-blue)
 
 
 
 🧠 **[Smart Curtain System](https://github.com/BelalReda314/Smart-Curtain-System)**  
+![Digital Logic](https://img.shields.io/badge/BuiltWith-TTL%20Gates-7D3C98) ![PCB](https://img.shields.io/badge/PCB-Dual%20Layer-green)
  *LDR Sensors · TTL Logic Gates · Dual-layer PCB*  
 A logic-gate-only curtain controller that automates window blinds based on ambient light — no microcontroller needed!  
-![Digital Logic](https://img.shields.io/badge/BuiltWith-TTL%20Gates-7D3C98) ![PCB](https://img.shields.io/badge/PCB-Dual%20Layer-green)
 
 
 
-☀️ **[Solar Tracking System](https://github.com/BelalReda314/Solar-Tracking-System-Using-Arduino)**  
+☀️ **[Solar Tracking System](https://github.com/BelalReda314/Solar-Tracking-System-Using-Arduino)** 
+![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D) ![Sensors](https://img.shields.io/badge/Sensors-LDR-orange) ![Motion](https://img.shields.io/badge/Motion-Dual%20Axis-yellowgreen)
 🌞 *Dual Axis · Arduino Nano · Servo Motors + LDR Array*  
 An intelligent tracking system that adjusts solar panel orientation for maximum energy gain.  
-![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D) ![Sensors](https://img.shields.io/badge/Sensors-LDR-orange) ![Motion](https://img.shields.io/badge/Motion-Dual%20Axis-yellowgreen)
 
 
 
 🔥 **[Fire Control System](https://github.com/BelalReda314/Fire-Control-System)**  
+![Sensor](https://img.shields.io/badge/Sensor-NTC%20Thermistor-red) ![Display](https://img.shields.io/badge/Output-LCD-blue) ![Alert](https://img.shields.io/badge/Alert-Buzzer-lightgrey)
 🚨 *NTC Thermistor · LCD Warnings · Buzzer Alerts*  
 Smart temperature-based alert system with real-time display and audible alerts.  
-![Sensor](https://img.shields.io/badge/Sensor-NTC%20Thermistor-red) ![Display](https://img.shields.io/badge/Output-LCD-blue) ![Alert](https://img.shields.io/badge/Alert-Buzzer-lightgrey)
 
 
 
 🚦 **[Traffic Light Controller](https://github.com/BelalReda314/Traffic-Light-System)**  
+![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D) ![Display](https://img.shields.io/badge/Display-7Segment-blueviolet) ![UserInput](https://img.shields.io/badge/Input-Push%20Buttons-yellow)
 🛣️ *Arduino Nano · Push Buttons · 7-Segment Display Countdown*  
 Simulates a real-life two-way traffic light with congestion detection and countdown timer.  
-![Arduino](https://img.shields.io/badge/Platform-Arduino-00979D) ![Display](https://img.shields.io/badge/Display-7Segment-blueviolet) ![UserInput](https://img.shields.io/badge/Input-Push%20Buttons-yellow)
 
 ---
 
