@@ -1,10 +1,11 @@
+<h1 align="center">👋 Hi, I'm Belal Reda</h1>
+
 <!-- Professional Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="real-coding">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9uYjlqM29nd2cwOGN4bTlsYWppd21ncDEyOWZtZmc2b3A4bnB2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)" width="500" alt="real-coding">
 </p>
 
 
-<h1 align="center">👋 Hi, I'm Belal Reda</h1>
 
 <p align="center">
   🎓 Undergraduate Communication & Electronics Engineering Student <br>
