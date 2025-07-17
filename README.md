@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I'm Belal Reda</h1>
+<h1 align="center"><b>Belal Reda</b></h1>
+<p align="center">Electronics & Communication Engineering Student | Future Developer</p>
 
 <!-- Professional Coding GIF -->
 <p align="center">
