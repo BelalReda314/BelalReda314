@@ -1,5 +1,7 @@
 <h2 align="center">👋 𝙷𝚒, 𝙸'𝚖 𝙱𝚎𝚕𝚊𝚕 𝚁𝚎𝚍𝚊</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
+</p>
 
 <!-- Professional Coding GIF -->
 <p align="center">
