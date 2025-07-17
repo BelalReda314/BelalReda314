@@ -7,7 +7,7 @@
 
 <!-- Professional Coding GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6a2MwZDVmNjViYjFreHQ4dTM2c3psZ2h6bmFmaDQwN29pd245YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="500" alt="real-coding">
+  <img src="https://raw.githubusercontent.com/BelalReda314/BelalReda314/main/banner.png" alt="Belal Reda Banner" width="100%">
 </p>
 
 
