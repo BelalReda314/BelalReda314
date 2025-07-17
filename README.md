@@ -46,6 +46,7 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ## 🚀 Highlight Projects
 
 🎯 **[Power Supply Circuit](https://github.com/BelalReda314/Power-Supply-Circuit)**
+
 <br>
 ![Altium](https://img.shields.io/badge/PCB-Altium%20Designer-A5915F) ![Electronics](https://img.shields.io/badge/Type-Analog%20Circuit-blue)  
 🔌 *7805 Voltage Regulator · Altium Designer · Simulation + PCB Layout*  
