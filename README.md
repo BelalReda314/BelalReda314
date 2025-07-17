@@ -55,7 +55,7 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 A compact and reliable 5V regulated power supply circuit designed using **Altium Designer**, simulated under real-world conditions.
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🧠 **[Smart Curtain System](https://github.com/BelalReda314/Smart-Curtain-System)**  
 <br>
@@ -67,7 +67,7 @@ A compact and reliable 5V regulated power supply circuit designed using **Altium
 A logic-gate-only curtain controller that automates window blinds based on ambient light — no microcontroller needed!
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ☀️ **[Solar Tracking System](https://github.com/BelalReda314/Solar-Tracking-System-Using-Arduino)**  
 <br>
@@ -79,7 +79,7 @@ A logic-gate-only curtain controller that automates window blinds based on ambie
 🌞 *Dual Axis · Arduino Nano · Servo Motors + LDR Array*  
 An intelligent tracking system that adjusts solar panel orientation for maximum energy gain.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔥 **[Fire Control System](https://github.com/BelalReda314/Fire-Control-System)**  
 <br>
@@ -92,7 +92,7 @@ An intelligent tracking system that adjusts solar panel orientation for maximum 
 Smart temperature-based alert system with real-time display and audible alerts.
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🚦 **[Traffic Light Controller](https://github.com/BelalReda314/Traffic-Light-System)**  
 <br>
