@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
 </p>
 
 <h1 align="center">👋 Hi, I'm Belal Reda</h1>
