@@ -45,17 +45,32 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ---
 ## 🚀 Projects
 
-🔌 **Power Supply Circuit**  
-Voltage regulation circuit using **7805** and designed in **Altium Designer**.
+### 🔌 Power Supply Circuit
+💡 A regulated **5V power supply** using the **7805 voltage regulator**, designed and simulated with **Altium Designer**.  
+🛠️ **Tools**: Altium Designer, Multisim  
+📦 **Tech**: Linear Regulator, Passive Components
 
-🧠 **Smart Curtain System**  
-LDR-based automatic curtain controller with **digital logic gates** and dual-layer PCB.
+---
 
-☀️ **Solar Tracking System**  
-Dual-axis Arduino-powered tracker that follows sunlight using **servo motors** and **LDR sensors**.
+### 🧠 Smart Curtain System
+🪟 An **automated curtain** controller using **LDR sensors** and logic gates (AND, OR, NOR, NOT).  
+📏 **Designed on a dual-layer PCB** with hardware-only logic — no microcontroller.  
+⚙️ **Core Logic**: TTL 7400 series
 
-🔥 **Fire Control System**  
-Smart fire alert system using **NTC thermistor**, **buzzer**, and **LCD screen**.
+---
+
+### ☀️ Solar Tracking System
+🌞 A **dual-axis solar tracker** using **Arduino** and **servo motors**, adjusting panel angles based on light intensity via **LDR sensors**.  
+⚡ **Goal**: Maximize sunlight exposure throughout the day  
+🔧 **Tech Used**: Arduino, LDRs, Servo Motors
+
+---
+
+### 🔥 Fire Control System
+🚨 A temperature-based **fire alert system** using an **NTC thermistor**, **LCD**, **buzzer**, and **red LED**.  
+🧪 Detects fire risk based on thresholds and triggers both **visual and audio alerts**.  
+💻 **Microcontroller**: Arduino Nano
+
 
 ---
 
