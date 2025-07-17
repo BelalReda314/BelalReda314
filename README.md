@@ -78,9 +78,10 @@ Smart fire alert system using **NTC thermistor**, **buzzer**, and **LCD screen**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalReda314&show_icons=true&theme=react" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalReda&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BelalReda314&show_icons=true&theme=react" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalReda314&theme=tokyonight" height="170"/>
 </p>
+
 
 ---
 
