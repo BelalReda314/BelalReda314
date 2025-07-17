@@ -45,25 +45,21 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ---
 ## 🚀 Highlight Projects
 
-🎯 **Power Supply Circuit**  
+🎯 **[Power Supply Circuit](https://github.com/BelalReda314/Power-Supply-Circuit)**  
 🔌 *7805 Voltage Regulator · Altium Designer · Simulation + PCB Layout*  
 A compact and reliable 5V regulated power supply circuit designed using **Altium Designer**, simulated with real-world conditions. It introduces fundamental analog design principles with precision filtering and voltage stability.
 
-🧠 **Smart Curtain System**  
+🧠 **[Smart Curtain System](https://github.com/BelalReda314/Smart-Curtain-System)**  
 🪟 *LDR Sensors · TTL Logic Gates · Dual-layer PCB*  
 A fully automatic curtain control system built without a microcontroller—only logic gates! It detects ambient light using an LDR and controls curtains using AND, OR, NOR, and NOT gates. Educational and hardware-pure.
 
-☀️ **Solar Tracking System**  
+☀️ **[Solar Tracking System](https://github.com/BelalReda314/Solar-Tracking-System-Using-Arduino)**  
 🌞 *Dual Axis · Arduino Nano · Servo Motors + LDR Array*  
 A solar panel that follows the sun in real time. Two-axis servo motors dynamically reposition the panel using feedback from light sensors to ensure max energy absorption throughout the day.
 
-🔥 **Fire Control System**  
+🔥 **[Fire Control System](https://github.com/BelalReda314/Fire-Control-System)**  
 🚨 *NTC Thermistor · LCD Warnings · Buzzer Alerts*  
-A smart alert system that continuously monitors temperature. If a fire condition is detected, it issues a loud alert and visual warning on a 16x2 LCD display. Designed for real-time safety simulations.
-
-🚦 **Traffic Light Controller**  
-🛣️ *Arduino Nano · Push Buttons · 7-Segment Display Countdown*  
-A two-road traffic control system that responds to simulated congestion. Includes countdown timers and LED-based signaling to mimic real-world traffic light behavior.
+A smart alert system that continuously monitors temperature. If a fire condition is detected, it issues a loud alert and visual w
 
 ---
 
