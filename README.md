@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
 </p>
 
+<p align="center">
+  <img src="https://your-custom-banner.com/banner.png" alt="Belal Reda Banner" width="100%">
+</p>
+
 <!-- Professional Coding GIF -->
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6a2MwZDVmNjViYjFreHQ4dTM2c3psZ2h6bmFmaDQwN29pd245YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="500" alt="real-coding">
