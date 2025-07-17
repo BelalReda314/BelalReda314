@@ -44,7 +44,14 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ![DevExpress](https://img.shields.io/badge/DevExpress-FFC107?style=flat)
 
 ---
+## 💻 What I Code With
 
+![Visual Studio](https://img.shields.io/badge/IDE-VisualStudio-purple?style=flat&logo=visual-studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Proteus](https://img.shields.io/badge/Simulation-Proteus-blue?style=flat)
+![Altium](https://img.shields.io/badge/PCB-Altium-996633?style=flat)
+
+---
 ## 🚀 Projects
 
 🔌 **Power Supply Circuit**  
