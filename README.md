@@ -7,8 +7,7 @@
 
 <p align="center">
   🎓 Undergraduate Communication & Electronics Engineering Student <br>
-  📍 Damanhour, Egypt &nbsp; | &nbsp; 📧 Belal.Reda@dmu.edu.eg <br>
-  🔗 <a href="https://www.linkedin.com/in/belal-reda">LinkedIn</a>
+  📍 Damanhour, Egypt
 </p>
 
 ---
@@ -80,7 +79,7 @@ Smart fire alert system using **NTC thermistor**, **buzzer**, and **LCD screen**
 
 ---
 
-## 🌍 Languages
+## 📫 Contact Me
 
-- 🇪🇬 Arabic — Native  
-- 🇬🇧 English — Professional Working Proficiency
+- 📧 **Email**: [Belal.Reda@dmu.edu.eg](mailto:Belal.Reda@dmu.edu.eg)  
+- 🔗 **LinkedIn**: [linkedin.com/in/belal-reda](https://www.linkedin.com/in/belal-reda)
