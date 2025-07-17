@@ -2,7 +2,6 @@
 <p align="center">Engineer. Developer. Problem Solver.</p>
 
 
-
 <!-- Professional Coding GIF -->
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl6a2MwZDVmNjViYjFreHQ4dTM2c3psZ2h6bmFmaDQwN29pd245YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif" width="500" alt="real-coding">
