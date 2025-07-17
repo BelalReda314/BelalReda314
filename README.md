@@ -2,7 +2,7 @@
 
 <!-- Professional Coding GIF -->
 <p align="center">
-  <img src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem" width="500" alt="real-coding">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ3NWRkdzltYmdxamhtcjlmcGN6ZzJ2bzNsaGRrb3JqMWx6NGlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="500" alt="real-coding">
 </p>
 
 
