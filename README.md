@@ -43,34 +43,27 @@ I'm known for being proactive, detail-oriented, and always excited to learn thro
 ![Altium](https://img.shields.io/badge/PCB-Altium-996633?style=flat)
 
 ---
-## 🚀 Projects
+## 🚀 Highlight Projects
 
-### 🔌 Power Supply Circuit
-💡 A regulated **5V power supply** using the **7805 voltage regulator**, designed and simulated with **Altium Designer**.  
-🛠️ **Tools**: Altium Designer, Multisim  
-📦 **Tech**: Linear Regulator, Passive Components
+🎯 **Power Supply Circuit**  
+🔌 *7805 Voltage Regulator · Altium Designer · Simulation + PCB Layout*  
+A compact and reliable 5V regulated power supply circuit designed using **Altium Designer**, simulated with real-world conditions. It introduces fundamental analog design principles with precision filtering and voltage stability.
 
----
+🧠 **Smart Curtain System**  
+🪟 *LDR Sensors · TTL Logic Gates · Dual-layer PCB*  
+A fully automatic curtain control system built without a microcontroller—only logic gates! It detects ambient light using an LDR and controls curtains using AND, OR, NOR, and NOT gates. Educational and hardware-pure.
 
-### 🧠 Smart Curtain System
-🪟 An **automated curtain** controller using **LDR sensors** and logic gates (AND, OR, NOR, NOT).  
-📏 **Designed on a dual-layer PCB** with hardware-only logic — no microcontroller.  
-⚙️ **Core Logic**: TTL 7400 series
+☀️ **Solar Tracking System**  
+🌞 *Dual Axis · Arduino Nano · Servo Motors + LDR Array*  
+A solar panel that follows the sun in real time. Two-axis servo motors dynamically reposition the panel using feedback from light sensors to ensure max energy absorption throughout the day.
 
----
+🔥 **Fire Control System**  
+🚨 *NTC Thermistor · LCD Warnings · Buzzer Alerts*  
+A smart alert system that continuously monitors temperature. If a fire condition is detected, it issues a loud alert and visual warning on a 16x2 LCD display. Designed for real-time safety simulations.
 
-### ☀️ Solar Tracking System
-🌞 A **dual-axis solar tracker** using **Arduino** and **servo motors**, adjusting panel angles based on light intensity via **LDR sensors**.  
-⚡ **Goal**: Maximize sunlight exposure throughout the day  
-🔧 **Tech Used**: Arduino, LDRs, Servo Motors
-
----
-
-### 🔥 Fire Control System
-🚨 A temperature-based **fire alert system** using an **NTC thermistor**, **LCD**, **buzzer**, and **red LED**.  
-🧪 Detects fire risk based on thresholds and triggers both **visual and audio alerts**.  
-💻 **Microcontroller**: Arduino Nano
-
+🚦 **Traffic Light Controller**  
+🛣️ *Arduino Nano · Push Buttons · 7-Segment Display Countdown*  
+A two-road traffic control system that responds to simulated congestion. Includes countdown timers and LED-based signaling to mimic real-world traffic light behavior.
 
 ---
 
