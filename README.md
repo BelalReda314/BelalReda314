@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Belal+Reda;Electronics+%26+Software+Enthusiast;C%2B%2B+%7C+C%23+%7C+PCB+Design+%7C+Arduino" alt="Typing Animation">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BelalReda&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 <!-- Professional Coding GIF -->
 <p align="center">
@@ -25,9 +28,7 @@ I'm a passionate engineering student with a strong interest in **IC Design**, **
 I'm known for being proactive, detail-oriented, and always excited to learn through practical challenges.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelalReda&show_icons=true&theme=tokyonight" alt="Belal's GitHub stats"/>
-</p>
+
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
