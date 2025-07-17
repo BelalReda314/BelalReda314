@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I’m <span style="color:#007acc;">Belal Reda</span></h1>
-<p align="center"><i>A curious mind exploring the intersection of electronics and software</i></p>
-
+<h1 align="center">𝓗𝓲, 𝓘'𝓶 𝓑𝓮𝓵𝓪𝓵 𝓡𝓮𝓭𝓪</h1>
 
 
 <!-- Professional Coding GIF -->
