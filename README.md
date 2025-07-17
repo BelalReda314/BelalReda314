@@ -136,8 +136,11 @@ Simulates a real-life two-way traffic light with congestion detection and countd
 
 ## 📫 Contact Me
 
-- 📧 **Email**: [Belal.Reda@dmu.edu.eg](mailto:Belal.Reda@dmu.edu.eg)  
-- 🔗 **LinkedIn**: [linkedin.com/in/belal-reda](https://www.linkedin.com/in/belal-reda)
+<p align="center">
+  <a href="mailto:Belal.Reda@dmu.edu.eg"><img src="https://img.shields.io/badge/Email-Belal.Reda@dmu.edu.eg-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/belal-reda"><img src="https://img.shields.io/badge/LinkedIn-Belal%20Reda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
 
 ---
 
